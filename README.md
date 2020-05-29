@@ -1,5 +1,5 @@
 # PixelsWave
-An Android game.
+An Android game made in LibGDX.
 
 
 ![](Screenshots/Screenshot1.jpg)
