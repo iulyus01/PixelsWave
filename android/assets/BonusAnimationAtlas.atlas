@@ -1,0 +1,48 @@
+
+BonusAnimationAtlas.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BonusAnimation1
+  rotate: false
+  xy: 2, 106
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BonusAnimation2
+  rotate: false
+  xy: 2, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BonusAnimation3
+  rotate: false
+  xy: 54, 106
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BonusAnimation4
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BonusAnimation5
+  rotate: false
+  xy: 54, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BonusAnimation6
+  rotate: false
+  xy: 106, 106
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

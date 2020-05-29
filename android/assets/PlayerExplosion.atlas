@@ -1,0 +1,69 @@
+
+PlayerExplosion.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlayerExplosion1
+  rotate: false
+  xy: 2, 606
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+PlayerExplosion2
+  rotate: false
+  xy: 2, 304
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+PlayerExplosion3
+  rotate: false
+  xy: 392, 606
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+PlayerExplosion4
+  rotate: false
+  xy: 2, 2
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+PlayerExplosion5
+  rotate: false
+  xy: 392, 304
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+PlayerExplosion6
+  rotate: false
+  xy: 782, 606
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+PlayerExplosion7
+  rotate: false
+  xy: 392, 2
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+PlayerExplosion8
+  rotate: false
+  xy: 782, 304
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1
+PlayerExplosion9
+  rotate: false
+  xy: 1172, 606
+  size: 388, 300
+  orig: 388, 300
+  offset: 0, 0
+  index: -1

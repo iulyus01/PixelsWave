@@ -1,0 +1,34 @@
+
+EnemyBullet0DeadAtlas.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+EnemyBullet0Dead1
+  rotate: false
+  xy: 2, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EnemyBullet0Dead2
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EnemyBullet0Dead3
+  rotate: false
+  xy: 54, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EnemyBullet0Dead4
+  rotate: false
+  xy: 54, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
